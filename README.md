@@ -1,5 +1,6 @@
 # ProyectoFinal
 Este repositorio contiene el proyecto final de la materia de Estadística y Probabilidad donde hicimos uso de estadística descriptiva y después de estadística inferencial para analizar la base de datos "Top 50 canciones". Para este propósito, primero se hicieron análisis exploratorios y descriptivos de la base de datos en notebooks de Colab. Utilizamos distintas bibliotecas como pandas o seaborn. Finalmente se hizo el análisis de regresión lineal con el método de mínimos cuadrados y también se hizo un análisis con múltiples variables para encontrar el mejor modelo que se acercara lo más posible a una r de 1
+
 ###Preguntas 
 ##### 1) ¿Cuál fue el motivo de elegir tu base de datos? 
 La razón por la que seleccionamos esta base de datos sobre las top50 canciones en spotify, se debió a que hoy en día la mayoría de la sociedad escucha múscia a través de dicha plataforma. La myoría de los usuarios son jóvenes, pero eso no quita que existan otros rangos de edades dentro de la plataforma, lo que quiere decir que la múscia que puedes encontrar y escuchar es muy amplia y dicersa. Lo que despertó cierta curiosidad en poder saber más acerca de cuáles son las canciones más escuchadas en esta plataforma, se nos hizo interesante el poder ánalizar está información con más detalle. 
